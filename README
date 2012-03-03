@@ -39,7 +39,7 @@ tabs, and the leftmost tab shows the namespace name.
 
 == Download ==
 
- svn checkout http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/HidePrefix
+ svn checkout https://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/HidePrefix
 
 == Installation ==
 
@@ -60,8 +60,8 @@ full license text.
 
 == Links ==
 
-* Extension page: http://www.mediawiki.org/wiki/Extension:HidePrefix
-* Author page:    http://www.mediawiki.org/wiki/User:Van_de_Bugger
-* License page:   http://www.gnu.org/licenses/agpl.html
+* Extension page: https://www.mediawiki.org/wiki/Extension:HidePrefix
+* Author page:    https://www.mediawiki.org/wiki/User:Van_de_Bugger
+* License page:   https://www.gnu.org/licenses/agpl.html
 
 <!-- end of file -->

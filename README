@@ -1,0 +1,22 @@
+<!-- README -->
+
+== Purpose ==
+
+The `HidePrefix' extension hides prefix in links and page titles.
+
+For example, wikitext `[[Help:How to]]' normally results in link `Help:How to'. If this extension is
+enabled, result will be just `How to' without `Help:' prefix.
+
+Links to pages with the same name but in different namespaces can be distinguished by tooltips.
+
+Again, article `How to' in `Help' namespece normally has `Help:How to' page title. If this extension
+is enabled, visible page title will be just `How to', without `Help:' prefix.
+
+Pages with the same name in different namespaces can be distinguished by its namespace tab.
+
+== License ==
+
+GNU Affero General Public License, version 3 or any later version. See `AGPL-3.0.txt' file for the
+full license text.
+
+<!-- end of file -->

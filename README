@@ -1,22 +1,67 @@
 <!-- README -->
 
-== Purpose ==
+== What? ==
 
-The `HidePrefix' extension hides prefix in links and page titles.
+The HidePrefix extension hides prefix in links and page titles.
 
-For example, wikitext `[[Help:How to]]' normally results in link `Help:How to'. If this extension is
-enabled, result will be just `How to' without `Help:' prefix.
+For example, wikitext `[[Help:FAQ]]' normally results in link `Help:FAQ'. If this extension is
+enabled, result will be just `FAQ' without the `Help:' prefix.
 
-Links to pages with the same name but in different namespaces can be distinguished by tooltips.
+The same is about page titles. Page `FAQ' in `Help' namespace normally has `Help:FAQ' title. If this
+extension is enabled, visible page title will be just `FAQ' without the `Help:' prefix.
 
-Again, article `How to' in `Help' namespece normally has `Help:How to' page title. If this extension
-is enabled, visible page title will be just `How to', without `Help:' prefix.
+== Why? ==
 
-Pages with the same name in different namespaces can be distinguished by its namespace tab.
+I as a user do not care too much about namespace of the link target page. To me there is no big
+difference between `Help:FAQ' and `Manual:FAQ' (especially if one of them is a redirection to
+another). But both these prefixes looks ugly to me.
+
+Namespace of target is often clear from context. If you see `Author: User:Van de Bugger' it is clear
+that `User:Van de Bugger' is a link to her/his personal page. Moreover, actually it does not matter
+whether that page is in `User' namespace or not. But again, the prefix looks very ugly, so many
+wikieditors use `[[User:Van de Bugger|Van de Bugger]]' to suppress the prefix.
+
+Prefixes look especially ugly if there is a long list of links with the same prefix. For example,
+look at the list of Extensions used on Wikimedia. More than 100 occurrences of prefix `Extension:'
+just clutter the screen and does not add any value. (BTW, did you notice that I had to use
+`[[:Category:Extensions used on Wikimedia|Extensions used on Wikimedia]]' to suppress ugly
+`Category:' prefix?)
+
+Thus, If I want to hide the ugly prefix so often, why should I hide it at every link manually? Let
+me write an extension which will hide the prefix in all the links. Everywhere.
+
+BTW, prefix is hidden in link text, but it is still available — if one hovers the mouse cursor over
+the link, tooltip will show full target page title, including prefix.
+
+Almost the same reasoning is applicable to page title. The prefix looks ugly and does not add any
+value to reader, because just above the page title (at least, in Vector skin) there are namespace
+tabs, and the leftmost tab shows the namespace name.
+
+== Download ==
+
+ svn checkout http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/HidePrefix
+
+== Installation ==
+
+To install this extension, add the following to LocalSettings.php:
+
+ require_once( "$IP/extensions/HidePrefix/HidePrefix.php" );
 
 == License ==
 
-GNU Affero General Public License, version 3 or any later version. See `AGPL-3.0.txt' file for the
+GNU Affero General Public License, version 3 or any later version. See AGPL-3.0.txt file for the
 full license text.
+
+== See also ==
+
+*   Extension HideNamespace — This extension allows drop prefix in page title and provides control
+    (e. g. hide prefix only in pages of specific namespace, or control prefix visibility from within
+    page content), but it does not affect links.
+
+== Links ==
+
+* Extension page: http://www.mediawiki.org/wiki/Extension:HidePrefix
+* Author page:    http://www.mediawiki.org/wiki/User:Van_de_Bugger
+* License page:   http://www.gnu.org/licenses/agpl.html
 
 <!-- end of file -->

@@ -1,5 +1,4 @@
-<?php // HidePrefix.i18n.php //
-
+<?php
 /*
 	------------------------------------------------------------------------------------------------
 	HidePrefix, a MediaWiki extension for hiding prefix in links and page titles.
@@ -18,27 +17,19 @@
 	------------------------------------------------------------------------------------------------
 */
 
-$aliases  = array();
 $messages = array();
 
-/*
-	------------------------------------------------------------------------------------------------
-	English
-	------------------------------------------------------------------------------------------------
-*/
+/** English
+ * @author Van de Bugger
+ */
 $messages[ 'en' ] = array(
-	'hide-prefix-description'
-		=> 'Hides prefix (namespace name) in links and page titles.',
+	'hideprefix-desc' => 'Hides prefix (namespace name) in links and page titles',
 );
 
-/*
-	------------------------------------------------------------------------------------------------
-	Russian
-	------------------------------------------------------------------------------------------------
-*/
+/** Russian (Русский)
+ * @author Van de Bugger
+ */
 $messages[ 'ru' ] = array(
-	'hide-prefix-description'
-		=> 'Убирает префикс из ссылок и заголовков страниц.',
+	'hideprefix-desc' => 'Убирает префикс из ссылок и заголовков страниц',
 );
 
-// end of file //

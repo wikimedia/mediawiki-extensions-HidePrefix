@@ -97,3 +97,10 @@ $messages['ru'] = array(
 	'hideprefix-desc' => 'Убирает префикс из ссылок и заголовков страниц',
 );
 
+/** Telugu (తెలుగు)
+ * @author Veeven
+ */
+$messages['te'] = array(
+	'hideprefix-desc' => 'లంకెల లోనూ పేజీ శీర్షికల లోనూ మునుజేర్పుని (పేరుబరి పేరుని) దాచేస్తుంది',
+);
+

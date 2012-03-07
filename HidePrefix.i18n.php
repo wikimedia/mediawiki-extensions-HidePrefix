@@ -71,6 +71,13 @@ $messages['ia'] = array(
 	'hideprefix-desc' => 'Celar le prefixo (le nomine del spatio de nomines) in ligamines e in titulos de pagina',
 );
 
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'hideprefix-desc' => 'Verstoppt de Prefix (Numm vum Nummraum) a Linken an Nimm vu Säiten',
+);
+
 /** Macedonian (Македонски)
  * @author Bjankuloski06
  */
@@ -90,6 +97,13 @@ $messages['nl'] = array(
  */
 $messages['pl'] = array(
 	'hideprefix-desc' => 'Ukrywa przedrostek (nazwę przestrzeni nazw) w linkach i tytułach',
+);
+
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'hideprefix-desc' => 'A stërma ij prefiss (spassi nominaj) ant ij colegament e ant ij tìtoj ëd pagina',
 );
 
 /** Russian (Русский) */

@@ -15,6 +15,13 @@ $messages['en'] = array(
 	'hideprefix-desc' => 'Hides prefix (namespace name) in links and page titles',
 );
 
+/** Asturian (Asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'hideprefix-desc' => "Anubre'l prefixu (el nome del espaciu de nomes) nos enllaces y nos títulos de les páxines",
+);
+
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author Wizardist
  */
@@ -107,10 +114,11 @@ $messages['pl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'hideprefix-desc' => 'A stërma ij prefiss (spassi nominaj) ant ij colegament e ant ij tìtoj ëd pagina',
+	'hideprefix-desc' => 'A stërma ël prefiss (spassi nominal) ant le liure e ant ij tìtoj ëd pàgine',
 );
 
 /** Russian (Русский) */

@@ -27,7 +27,15 @@ class HidePrefix {
 
 	// Hide prefix in links.
 	static public function onLinkBegin( $skin, $target, &$text, &$customAttribs, &$query, &$options, &$ret ) {
-		if ( ! isset( $text ) || $text == $target->getPrefixedText() ) {
+		if ( isset( $text ) ) {
+			// Hmm... Sometimes `$text' is not a string but an object of class `Message'...
+			if ( is_string( $text ) ) {
+				$title = Title::newFromText( $text );
+				if ( $title != null && $title->getPrefixedText() == $target->getPrefixedText() ) {
+					$text = $target->getText();
+				}; // if
+			}; // if
+		} else {
 			$text = $target->getText();
 		}; // if
 		return true;

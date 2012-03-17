@@ -36,8 +36,8 @@ global $wgExtensionCredits;
 $wgExtensionCredits[ 'other' ][] = array(
 	'path'    => __FILE__,
 	'name'    => 'HidePrefix',
-	'license' => 'AGPL-3.0+',
-	'version' => '0.0.1',
+	'license' => 'AGPLv3',
+	'version' => '0.0.1+',
 	'author'  => array( '[https://www.mediawiki.org/wiki/User:Van_de_Bugger Van de Bugger]' ),
 	'url'     => 'https://www.mediawiki.org/wiki/Extension:HidePrefix',
 	'descriptionmsg'  => 'hideprefix-desc',

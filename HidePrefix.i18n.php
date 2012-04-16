@@ -64,6 +64,13 @@ $messages['gl'] = array(
 	'hideprefix-desc' => 'Agocha o prefixo (o nome do espazo de nomes) nas ligazóns e nos títulos das páxinas',
 );
 
+/** Hebrew (עברית)
+ * @author Amire80
+ */
+$messages['he'] = array(
+	'hideprefix-desc' => 'הסתרת שם מרחב השמות בקישורים ובשמות דפים',
+);
+
 /** Upper Sorbian (Hornjoserbsce)
  * @author Michawiki
  */

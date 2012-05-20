@@ -85,6 +85,13 @@ $messages['ia'] = array(
 	'hideprefix-desc' => 'Celar le prefixo (le nomine del spatio de nomines) in ligamines e in titulos de pagina',
 );
 
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'hideprefix-desc' => 'リンクとページ名の接頭辞（名前空間名）を隠す',
+);
+
 /** Korean (한국어)
  * @author Freebiekr
  */

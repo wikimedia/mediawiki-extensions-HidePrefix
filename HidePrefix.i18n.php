@@ -15,6 +15,13 @@ $messages['en'] = array(
 	'hideprefix-desc' => 'Hides prefix (namespace name) in links and page titles',
 );
 
+/** Message documentation (Message documentation)
+ * @author Purodha
+ */
+$messages['qqq'] = array(
+	'hideprefix-desc' => '{{desc}}',
+);
+
 /** Asturian (Asturianu)
  * @author Xuacu
  */
@@ -104,6 +111,13 @@ $messages['ja'] = array(
  */
 $messages['ko'] = array(
 	'hideprefix-desc' => '링크와 문서 제목에서 접두사(이름공간 이름)를 숨깁니다.',
+);
+
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'hideprefix-desc' => 'Verschtisch de Vürsäz, also der Naamme vum Appachtemang, en Lengks un Siggetittelle.',
 );
 
 /** Luxembourgish (Lëtzebuergesch)

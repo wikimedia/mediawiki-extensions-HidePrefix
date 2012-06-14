@@ -22,7 +22,7 @@ $messages['qqq'] = array(
 	'hideprefix-desc' => '{{desc}}',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -50,14 +50,14 @@ $messages['dsb'] = array(
 	'hideprefix-desc' => 'Chowa prefiks (mě mjenjowego ruma) w wótkazach a titelach bokow',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
 	'hideprefix-desc' => 'Oculta el prefijo (o nombre del espacio de nombres) en los enlaces y en los títulos de las páginas',
 );
 
-/** French (Français)
+/** French (français)
  * @author DavidL
  */
 $messages['fr'] = array(
@@ -85,14 +85,14 @@ $messages['hsb'] = array(
 	'hideprefix-desc' => 'Chowa prefiks (mjeno mjenoweho ruma) we wotkazach a titulach stronow',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
 	'hideprefix-desc' => 'Celar le prefixo (le nomine del spatio de nomines) in ligamines e in titulos de pagina',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
@@ -127,7 +127,7 @@ $messages['lb'] = array(
 	'hideprefix-desc' => 'Verstoppt de Prefix (Numm vum Nummraum) a Linken an Nimm vu Säiten',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -141,7 +141,7 @@ $messages['nl'] = array(
 	'hideprefix-desc' => 'Verbergt het voorvoegsel (de naamruimtenaam) in verwijzingen en paginanamen',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author BeginaFelicysym
  */
 $messages['pl'] = array(
@@ -156,7 +156,7 @@ $messages['pms'] = array(
 	'hideprefix-desc' => 'A stërma ël prefiss (spassi nominal) ant le liure e ant ij tìtoj ëd pàgine',
 );
 
-/** Russian (Русский) */
+/** Russian (русский) */
 $messages['ru'] = array(
 	'hideprefix-desc' => 'Убирает префикс из ссылок и заголовков страниц',
 );

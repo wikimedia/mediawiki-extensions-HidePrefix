@@ -168,3 +168,10 @@ $messages['te'] = array(
 	'hideprefix-desc' => 'లంకెల లోనూ పేజీ శీర్షికల లోనూ మునుజేర్పుని (పేరుబరి పేరుని) దాచేస్తుంది',
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'hideprefix-desc' => 'Nagtatago ng unlapi (pangalan ng puwang na pampangalan) sa loob ng mga kawing at mga pamagat ng pahina',
+);
+

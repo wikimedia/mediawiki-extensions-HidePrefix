@@ -29,7 +29,7 @@ $messages['ast'] = array(
 	'hideprefix-desc' => "Anubre'l prefixu (el nome del espaciu de nomes) nos enllaces y nos títulos de les páxines",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Wizardist
  */
 $messages['be-tarask'] = array(
@@ -43,7 +43,7 @@ $messages['de'] = array(
 	'hideprefix-desc' => 'Ermöglicht das Ausblenden des Namensraumprefix in Links und bei Seitennamen',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -64,7 +64,7 @@ $messages['fr'] = array(
 	'hideprefix-desc' => 'Cacher le préfixe (espace de nom) dans les liens et les titres de pages',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -78,7 +78,7 @@ $messages['he'] = array(
 	'hideprefix-desc' => 'הסתרת שם מרחב השמות בקישורים ובשמות דפים',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(

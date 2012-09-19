@@ -22,15 +22,17 @@ if ( ! defined( 'MEDIAWIKI' ) ) {
 	die( 'Not an entry point.' );
 }; // if
 
+$extHidePrefixDir = defined( __DIR__ ) ? __DIR__ : dirname( __FILE__ ) ;
+
 global $wgAutoloadClasses;
-$wgAutoloadClasses[ 'HidePrefix' ] = __DIR__ . '/HidePrefix.class.php';
+$wgAutoloadClasses[ 'HidePrefix' ] = $extHidePrefixDir . '/HidePrefix.class.php';
 
 global $wgHooks;
 $wgHooks[ 'LinkBegin'         ][] = 'HidePrefix::onLinkBegin';
 $wgHooks[ 'BeforePageDisplay' ][] = 'HidePrefix::onBeforePageDisplay';
 
 global $wgExtensionMessagesFiles;
-$wgExtensionMessagesFiles[ 'HidePrefix' ] = __DIR__ . '/HidePrefix.i18n.php';
+$wgExtensionMessagesFiles[ 'HidePrefix' ] = $extHidePrefixDir . '/HidePrefix.i18n.php';
 
 global $wgExtensionCredits;
 $wgExtensionCredits[ 'other' ][] = array(
@@ -42,5 +44,7 @@ $wgExtensionCredits[ 'other' ][] = array(
 	'url'     => 'https://www.mediawiki.org/wiki/Extension:HidePrefix',
 	'descriptionmsg'  => 'hideprefix-desc',
 );
+
+unset( $extHidePrefixDir );
 
 // end of file //

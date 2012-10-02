@@ -29,7 +29,7 @@ $messages['ast'] = array(
 	'hideprefix-desc' => "Anubre'l prefixu (el nome del espaciu de nomes) nos enllaces y nos títulos de les páxines",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Wizardist
  */
 $messages['be-tarask'] = array(

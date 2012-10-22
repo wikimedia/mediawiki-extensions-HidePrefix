@@ -156,7 +156,8 @@ $messages['pms'] = array(
 	'hideprefix-desc' => 'A stërma ël prefiss (spassi nominal) ant le liure e ant ij tìtoj ëd pàgine',
 );
 
-/** Russian (русский) */
+/** Russian (русский)
+ */
 $messages['ru'] = array(
 	'hideprefix-desc' => 'Убирает префикс из ссылок и заголовков страниц',
 );
@@ -174,4 +175,3 @@ $messages['te'] = array(
 $messages['tl'] = array(
 	'hideprefix-desc' => 'Nagtatago ng unlapi (pangalan ng puwang na pampangalan) sa loob ng mga kawing at mga pamagat ng pahina',
 );
-

@@ -175,3 +175,10 @@ $messages['te'] = array(
 $messages['tl'] = array(
 	'hideprefix-desc' => 'Nagtatago ng unlapi (pangalan ng puwang na pampangalan) sa loob ng mga kawing at mga pamagat ng pahina',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'hideprefix-desc' => '隐藏链接和页面标题中的前缀（命名空间）',
+);

@@ -57,6 +57,13 @@ $messages['es'] = array(
 	'hideprefix-desc' => 'Oculta el prefijo (o nombre del espacio de nombres) en los enlaces y en los títulos de las páginas',
 );
 
+/** Finnish (suomi)
+ * @author Nedergard
+ */
+$messages['fi'] = array(
+	'hideprefix-desc' => 'Piilottaa etuliitteen (nimiavaruuden nimen) linkeissä ja sivujen otsikoissa',
+);
+
 /** French (français)
  * @author DavidL
  */

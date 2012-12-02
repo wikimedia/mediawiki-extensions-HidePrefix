@@ -183,6 +183,13 @@ $messages['tl'] = array(
 	'hideprefix-desc' => 'Nagtatago ng unlapi (pangalan ng puwang na pampangalan) sa loob ng mga kawing at mga pamagat ng pahina',
 );
 
+/** Ukrainian (українська)
+ * @author Base
+ */
+$messages['uk'] = array(
+	'hideprefix-desc' => 'Приховує префікс (назву простору назв) у посиланнях та заголовках сторінок',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Yfdyh000
  */

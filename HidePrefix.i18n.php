@@ -145,7 +145,7 @@ $messages['mk'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'hideprefix-desc' => 'Verbergt het voorvoegsel (de naamruimtenaam) in verwijzingen en paginanamen',
+	'hideprefix-desc' => 'Verbergt het voorvoegsel (de naamruimtenaam) in koppelingen en paginanamen',
 );
 
 /** Polish (polski)

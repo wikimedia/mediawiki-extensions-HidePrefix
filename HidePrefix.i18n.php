@@ -163,6 +163,13 @@ $messages['pms'] = array(
 	'hideprefix-desc' => 'A stërma ël prefiss (spassi nominal) ant le liure e ant ij tìtoj ëd pàgine',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'hideprefix-desc' => "Scunne 'u prefisse (nome d'u namespace) jndr'à le collegaminde e le titole d'a pàgene",
+);
+
 /** Russian (русский)
  */
 $messages['ru'] = array(

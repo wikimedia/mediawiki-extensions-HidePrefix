@@ -110,7 +110,7 @@ $messages['it'] = array(
  * @author Shirayuki
  */
 $messages['ja'] = array(
-	'hideprefix-desc' => 'リンクとページ名の接頭辞（名前空間名）を隠す',
+	'hideprefix-desc' => 'リンクとページ名の接頭辞 (名前空間名) を隠す',
 );
 
 /** Korean (한국어)

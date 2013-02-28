@@ -17,9 +17,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'hideprefix-desc' => '{{desc}}',
+	'hideprefix-desc' => '{{desc|name=Hide Prefix|url=http://www.mediawiki.org/wiki/Extension:HidePrefix}}',
 );
 
 /** Asturian (asturianu)

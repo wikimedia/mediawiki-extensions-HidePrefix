@@ -135,6 +135,13 @@ $messages['lb'] = array(
 	'hideprefix-desc' => 'Verstoppt de Prefix (Numm vum Nummraum) a Linken an Nimm vu Säiten',
 );
 
+/** Minangkabau (Baso Minangkabau)
+ * @author Iwan Novirion
+ */
+$messages['min'] = array(
+	'hideprefix-desc' => 'Suruakan awalan (namo ruang) pado pautan jo juldul laman',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */

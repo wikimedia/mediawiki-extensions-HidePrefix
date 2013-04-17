@@ -37,6 +37,13 @@ $messages['be-tarask'] = array(
 	'hideprefix-desc' => 'Хавае прэфікс (прастору назваў) у спасылках і загалоўках старонак',
 );
 
+/** Czech (česky)
+ * @author Jezevec
+ */
+$messages['cs'] = array(
+	'hideprefix-desc' => 'Skryje prefix (název prostoru) v odkazech a nadpisech stránek',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  */

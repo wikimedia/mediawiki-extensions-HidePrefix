@@ -218,3 +218,10 @@ $messages['uk'] = array(
 $messages['zh-hans'] = array(
 	'hideprefix-desc' => '隐藏链接和页面标题中的前缀（命名空间）',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'hideprefix-desc' => '隱藏連接及頁面標題中的前綴（名字空間）',
+);

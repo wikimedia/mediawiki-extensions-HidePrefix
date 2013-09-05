@@ -178,6 +178,13 @@ $messages['pms'] = array(
 	'hideprefix-desc' => 'A stërma ël prefiss (spassi nominal) ant le liure e ant ij tìtoj ëd pàgine',
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'hideprefix-desc' => 'Oculta o prefixo (nome do domínio) em ligações e títulos de páginas',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */

@@ -37,7 +37,7 @@ $messages['be-tarask'] = array(
 	'hideprefix-desc' => 'Хавае прэфікс (прастору назваў) у спасылках і загалоўках старонак',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Jezevec
  */
 $messages['cs'] = array(

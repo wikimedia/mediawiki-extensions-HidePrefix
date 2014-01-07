@@ -65,6 +65,13 @@ $messages['es'] = array(
 	'hideprefix-desc' => 'Oculta el prefijo (o nombre del espacio de nombres) en los enlaces y en los títulos de las páginas',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'hideprefix-desc' => 'پنهان کردن پیشوند (نام فضای نامی) در لینک‌ها و عناوین صفحه',
+);
+
 /** Finnish (suomi)
  * @author Nedergard
  */

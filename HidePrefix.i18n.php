@@ -37,6 +37,13 @@ $messages['be-tarask'] = array(
 	'hideprefix-desc' => 'Хавае прэфікс (прастору назваў) у спасылках і загалоўках старонак',
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'hideprefix-desc' => 'АгӀонийн хьажорагашан а кортанашан а тӀера префикс дӀайоккху',
+);
+
 /** Czech (čeština)
  * @author Jezevec
  */

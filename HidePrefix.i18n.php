@@ -74,9 +74,10 @@ $messages['es'] = array(
 
 /** Persian (فارسی)
  * @author Armin1392
+ * @author Ebraminio
  */
 $messages['fa'] = array(
-	'hideprefix-desc' => 'پنهان کردن پیشوند (نام فضای نامی) در لینک‌ها و عناوین صفحه',
+	'hideprefix-desc' => 'پنهان‌کردن پیشوند (نام فضای نامی) در پیوندها و عناوین صفحه',
 );
 
 /** Finnish (suomi)

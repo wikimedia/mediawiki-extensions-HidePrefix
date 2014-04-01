@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Siebrand"
+        ]
+    },
+    "hideprefix-desc": "Verbergt het voorvoegsel (de naamruimtenaam) in koppelingen en paginanamen"
+}

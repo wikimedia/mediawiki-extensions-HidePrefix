@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Justincheng12345"
-        ]
-    },
-    "hideprefix-desc": "隱藏連接及頁面標題中的前綴（名字空間）"
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"hideprefix-desc": "隱藏連接及頁面標題中的前綴（名字空間）"
 }

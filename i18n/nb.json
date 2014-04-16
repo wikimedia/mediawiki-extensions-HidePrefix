@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cocu"
-        ]
-    },
-    "hideprefix-desc": "Skjuler prefiks (navn på navnerom) i lenker og sidetitler"
+	"@metadata": {
+		"authors": [
+			"Cocu"
+		]
+	},
+	"hideprefix-desc": "Skjuler prefiks (navn på navnerom) i lenker og sidetitler"
 }

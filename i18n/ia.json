@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "McDutchie"
-        ]
-    },
-    "hideprefix-desc": "Celar le prefixo (le nomine del spatio de nomines) in ligamines e in titulos de pagina"
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"hideprefix-desc": "Celar le prefixo (le nomine del spatio de nomines) in ligamines e in titulos de pagina"
 }

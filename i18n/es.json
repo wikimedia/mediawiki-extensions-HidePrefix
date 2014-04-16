@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Armando-Martin"
-        ]
-    },
-    "hideprefix-desc": "Oculta el prefijo (o nombre del espacio de nombres) en los enlaces y en los títulos de las páginas"
+	"@metadata": {
+		"authors": [
+			"Armando-Martin"
+		]
+	},
+	"hideprefix-desc": "Oculta el prefijo (o nombre del espacio de nombres) en los enlaces y en los títulos de las páginas"
 }

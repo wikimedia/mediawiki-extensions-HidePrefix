@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Beta16"
-        ]
-    },
-    "hideprefix-desc": "Nasconde il prefisso (nome del namespace) nei collegamenti e nei titoli delle pagine"
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"hideprefix-desc": "Nasconde il prefisso (nome del namespace) nei collegamenti e nei titoli delle pagine"
 }

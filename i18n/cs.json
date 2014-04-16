@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Jezevec"
-        ]
-    },
-    "hideprefix-desc": "Skryje prefix (název prostoru) v odkazech a nadpisech stránek"
+	"@metadata": {
+		"authors": [
+			"Jezevec"
+		]
+	},
+	"hideprefix-desc": "Skryje prefix (název prostoru) v odkazech a nadpisech stránek"
 }

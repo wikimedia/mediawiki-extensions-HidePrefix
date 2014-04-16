@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "DavidL"
-        ]
-    },
-    "hideprefix-desc": "Cacher le préfixe (espace de nom) dans les liens et les titres de pages"
+	"@metadata": {
+		"authors": [
+			"DavidL"
+		]
+	},
+	"hideprefix-desc": "Cacher le préfixe (espace de nom) dans les liens et les titres de pages"
 }

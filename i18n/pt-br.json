@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cainamarques"
+			"Cainamarques",
+			"Dianakc"
 		]
 	},
-	"hideprefix-desc": "Oculta o prefixo (nome do domínio) em ligações e títulos de páginas"
+	"hideprefix-desc": "Oculta o prefixo (nome do domínio) em links e títulos de páginas"
 }

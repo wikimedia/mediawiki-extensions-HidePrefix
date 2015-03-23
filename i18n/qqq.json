@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Purodha",
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"hideprefix-desc": "{{desc|name=Hide Prefix|url=http://www.mediawiki.org/wiki/Extension:HidePrefix}}"
+	"hideprefix-desc": "{{desc|name=Hide Prefix|url=https://www.mediawiki.org/wiki/Extension:HidePrefix}}"
 }

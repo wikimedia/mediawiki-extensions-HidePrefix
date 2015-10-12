@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Van de Bugger"
-        ]
-    },
-    "hideprefix-desc": "Hides prefix (namespace name) in links and page titles"
+	"@metadata": {
+		"authors": [
+			"Van de Bugger"
+		]
+	},
+	"hideprefix-desc": "Hides prefix (namespace name) in links and page titles"
 }

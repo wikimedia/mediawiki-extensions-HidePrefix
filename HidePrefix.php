@@ -38,6 +38,7 @@ $wgExtensionMessagesFiles[ 'HidePrefix' ] = $extHidePrefixDir . '/HidePrefix.i18
 
 // User Options
 $wgHidePrefixNotInSearch = false;
+$wgHidePrefixDontHideFile = false;
 
 global $wgExtensionCredits;
 $wgExtensionCredits[ 'other' ][] = array(

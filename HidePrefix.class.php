@@ -60,6 +60,13 @@ class HidePrefix {
 			return true;
 		}; // if
 
+		// Don't hide the File Prefix on a page title if option is set
+                if($wgHidePrefixDontHideFile) {
+			if(strpos($title->getPrefixedText(), 'File:') !== false) {
+				return true;
+			}
+		}
+
 		if ( $out->getPageTitle() == $title->getPrefixedText() ) {
 			$out->setPageTitle( $title->getText() );
 		}; // if

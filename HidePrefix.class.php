@@ -27,6 +27,13 @@ class HidePrefix {
 
 	// Hide prefix in links.
 	static public function onLinkBegin( $skin, $target, &$text, &$customAttribs, &$query, &$options, &$ret ) {
+		// Don't hide prefix in search results if option set
+ 		if($wgHidePrefixNotInSearch) {
+                        $context = RequestContext::getMain();
+                        if( $context->getTitle() == "Special:Search" ) {
+                                return true;
+                        }
+                }
 		if ( isset( $text ) ) {
 			// Hmm... Sometimes `$text' is not a string but an object of class `Message'...
 			if ( is_string( $text ) ) {

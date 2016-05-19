@@ -46,6 +46,15 @@ tabs, and the leftmost tab shows the namespace name.
 To install this extension, add the following to LocalSettings.php:
 
  require_once( "$IP/extensions/HidePrefix/HidePrefix.php" );
+ 
+== User Options ==
+
+If you would like prefixes to still appear in search results, then set this option to true in your LocalSettings.php
+$wgHidePrefixNotInSearch
+
+If you would like the page of a newly uploaded file or image to display the File Prefix, then set this option to true in your LocalSettings.php
+This is useful if you upload files and want to copy the page title for linking from another page.
+$wgHidePrefixDontHideFile = false;
 
 == License ==
 

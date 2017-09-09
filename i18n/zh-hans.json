@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yfdyh000"
+			"Yfdyh000",
+			"Liuxinyu970226"
 		]
 	},
-	"hideprefix-desc": "隐藏链接和页面标题中的前缀（命名空间）"
+	"hideprefix-desc": "在链接和页面标题中隐藏前缀（名字空间名称）"
 }

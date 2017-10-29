@@ -33,8 +33,6 @@ $wgHooks[ 'BeforePageDisplay' ][] = 'HidePrefix::onBeforePageDisplay';
 
 global $wgMessagesDirs;
 $wgMessagesDirs['HidePrefix'] = __DIR__ . '/i18n';
-global $wgExtensionMessagesFiles;
-$wgExtensionMessagesFiles[ 'HidePrefix' ] = $extHidePrefixDir . '/HidePrefix.i18n.php';
 
 global $wgExtensionCredits;
 $wgExtensionCredits[ 'other' ][] = array(

@@ -39,7 +39,7 @@ tabs, and the leftmost tab shows the namespace name.
 
 == Download ==
 
- svn checkout https://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/HidePrefix
+ git clone https://gerrit.wikimedia.org/r/mediawiki/extensions/HidePrefix
 
 == Installation ==
 

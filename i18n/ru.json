@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"hideprefix-desc": "Убирает префикс из ссылок и заголовков страниц"
 }

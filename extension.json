@@ -1,0 +1,27 @@
+{
+	"name": "HidePrefix",
+	"version": "0.1.0",
+	"author": [
+		"[https://www.mediawiki.org/wiki/User:Van_de_Bugger Van de Bugger]"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:HidePrefix",
+	"descriptionmsg": "hideprefix-desc",
+	"license-name": "AGPL-3.0-or-later",
+	"type": "other",
+	"requires": {
+		"MediaWiki": ">= 1.35.0"
+	},
+	"MessagesDirs": {
+		"HidePrefix": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"HidePrefix": "src/HidePrefix.php"
+	},
+	"Hooks": {
+		"HtmlPageLinkRendererBegin": "HidePrefix::onHtmlPageLinkRendererBegin",
+		"BeforePageDisplay": "HidePrefix::onBeforePageDisplay"
+	},
+	"manifest_version": 2
+}

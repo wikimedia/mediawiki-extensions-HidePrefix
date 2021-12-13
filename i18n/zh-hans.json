@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Yfdyh000"
+			"Yfdyh000",
+			"Xiplus"
 		]
 	},
-	"hideprefix-desc": "在链接和页面标题中隐藏前缀（名字空间名称）"
+	"hideprefix-desc": "在链接和页面标题中隐藏前缀（命名空间名称）"
 }

@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Armin1392",
-			"Ebraminio"
+			"Ebraminio",
+			"Beginneruser"
 		]
 	},
-	"hideprefix-desc": "پنهان کردن پیشوند (نام فضای نامی) در پیوندها و عناوین صفحه"
+	"hideprefix-desc": "پنهان کردن پیشوند (نام فضای نام) در پیوندها و عناوین صفحه"
 }
